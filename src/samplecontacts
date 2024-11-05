@@ -1,0 +1,23 @@
+[
+        {
+            "name": "John Doe",
+            "phone": "786-555-5555",
+            "email": "jdoe@gmail.com",
+            "address": "123 Main St, Miami, FL 33123",
+            "id": 39
+        },
+        {
+            "name": "Mickey Mouse",
+            "phone": "786-333-3333",
+            "email": "mMouse@gmail.com",
+            "address": "123 Main St, Orlando, FL 33123",
+            "id": 40
+        },
+        {
+            "name": "Michael Jordan",
+            "phone": "786-777-7777",
+            "email": "mjordan@gmail.com",
+            "address": "123 Main St, Chicago, Il 33123",
+            "id": 42
+        }
+    ]
